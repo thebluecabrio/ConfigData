@@ -1,1 +1,8 @@
 epl-team: Middlesbrough
+
+---
+
+spring:
+  profiles: cloud
+
+epl-team: Chelsea
